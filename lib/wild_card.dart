@@ -29,7 +29,6 @@ class _DraggableCardState extends State<DraggableCard>
   /// in the GestureDetector onPanUpdate callback. If the animation is running,
   /// this value is set to the value of the [_animation].
   Alignment _dragAlignment = Alignment.center;
-
   Animation<Alignment> _animation;
 
   /// Calculates and runs a [SpringSimulation].
