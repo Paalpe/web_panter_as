@@ -31,6 +31,7 @@ class _DraggableCardState extends State<DraggableCard>
   Alignment _dragAlignment = Alignment.center;
   Animation<Alignment> _animation;
 
+
   /// Calculates and runs a [SpringSimulation].
   void _runAnimation(Offset pixelsPerSecond, Size size) {
     _animation = _controller.drive(
