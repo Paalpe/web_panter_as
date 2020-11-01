@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: panter_web
+=======
+name: web_panter_as
+>>>>>>> 1142a6bc190a7deba893c5189fa24742471823a2
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -28,7 +32,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
+<<<<<<< HEAD
   breakpoint: ^1.0.1+2
+=======
+>>>>>>> 1142a6bc190a7deba893c5189fa24742471823a2
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "panter_web",
     "short_name": "panter_web",
+=======
+    "name": "web_panter_as",
+    "short_name": "web_panter_as",
+>>>>>>> 1142a6bc190a7deba893c5189fa24742471823a2
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

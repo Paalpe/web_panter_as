@@ -15,6 +15,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0-nullsafety.1"
+<<<<<<< HEAD
   breakpoint:
     dependency: "direct main"
     description:
@@ -22,6 +23,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1+2"
+=======
+>>>>>>> 1142a6bc190a7deba893c5189fa24742471823a2
   characters:
     dependency: transitive
     description:
